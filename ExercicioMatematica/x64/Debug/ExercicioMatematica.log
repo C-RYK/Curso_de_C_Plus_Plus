@@ -1,0 +1,3 @@
+﻿  Matematica.cpp
+C:\Users\carlo\OneDrive\Documentos\Curso de C++\ExercicioMatematica\Matematica.cpp(45): warning C4715: 'cal': nem todos os caminhos de controle retornam um valor
+  ExercicioMatematica.vcxproj -> C:\Users\carlo\OneDrive\Documentos\Curso de C++\ExercicioMatematica\x64\Debug\ExercicioMatematica.exe

@@ -1,0 +1,3 @@
+﻿  ExercicioForEach.cpp
+C:\Users\carlo\OneDrive\Documentos\Curso de C++\ExercicioForEach\ExercicioForEach.cpp(15,12): warning C4244: '=': conversão de 'unsigned __int64' para 'double', possível perda de dados
+  ExercicioForEach.vcxproj -> C:\Users\carlo\OneDrive\Documentos\Curso de C++\ExercicioForEach\x64\Debug\ExercicioForEach.exe

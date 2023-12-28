@@ -1,0 +1,3 @@
+﻿  OperadorTernario.cpp
+C:\Users\carlo\source\repos\OperadorTernario\OperadorTernario.cpp(9,6): warning C4101: 'par': variável local não referenciada
+  OperadorTernario.vcxproj -> C:\Users\carlo\source\repos\OperadorTernario\x64\Debug\OperadorTernario.exe

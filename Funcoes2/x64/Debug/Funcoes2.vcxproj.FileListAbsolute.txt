@@ -1,0 +1,2 @@
+C:\Users\carlo\source\repos\Funcoes2\x64\Debug\Funcoes2.exe
+C:\Users\carlo\OneDrive\Documentos\Curso de C++\Funcoes2\x64\Debug\Funcoes2.exe

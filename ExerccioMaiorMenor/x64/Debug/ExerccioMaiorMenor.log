@@ -1,0 +1,3 @@
+﻿  ExercicioMaiorMenor.cpp
+C:\Users\carlo\OneDrive\Documentos\Curso de C++\ExerccioMaiorMenor\ExercicioMaiorMenor.cpp(39,22): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  ExerccioMaiorMenor.vcxproj -> C:\Users\carlo\OneDrive\Documentos\Curso de C++\ExerccioMaiorMenor\x64\Debug\ExerccioMaiorMenor.exe

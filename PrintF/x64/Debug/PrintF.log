@@ -1,0 +1,3 @@
+﻿  PrintF.cpp
+C:\Users\carlo\source\repos\PrintF\PrintF.cpp(10,22): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  PrintF.vcxproj -> C:\Users\carlo\source\repos\PrintF\x64\Debug\PrintF.exe

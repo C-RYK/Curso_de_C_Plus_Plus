@@ -1,0 +1,3 @@
+﻿  IncDeccpp.cpp
+C:\Users\carlo\source\repos\IncDec\IncDeccpp.cpp(5,30): warning C4101: 'Resultado': variável local não referenciada
+  IncDec.vcxproj -> C:\Users\carlo\source\repos\IncDec\x64\Debug\IncDec.exe

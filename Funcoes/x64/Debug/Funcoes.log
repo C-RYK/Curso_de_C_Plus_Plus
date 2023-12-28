@@ -1,0 +1,5 @@
+﻿  Funcoes1.cpp
+  Funcoes2.cpp
+  Gerando Código...
+Funcoes2.obj : error LNK2005: main já definida no Funcoes1.obj
+C:\Users\carlo\source\repos\Funcoes\x64\Debug\Funcoes.exe : fatal error LNK1169: encontrados um ou mais símbolos múltiplos definidos

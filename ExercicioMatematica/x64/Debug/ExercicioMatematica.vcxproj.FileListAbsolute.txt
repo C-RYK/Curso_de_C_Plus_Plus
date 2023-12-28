@@ -1,0 +1,2 @@
+C:\Users\carlo\source\repos\ExercicioMatematica\x64\Debug\ExercicioMatematica.exe
+C:\Users\carlo\OneDrive\Documentos\Curso de C++\ExercicioMatematica\x64\Debug\ExercicioMatematica.exe
